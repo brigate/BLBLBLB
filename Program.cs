@@ -9,7 +9,10 @@ namespace BumTras
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("BLA BLA");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("BLA BLA");
+            }
             Console.ReadLine();
         }
     }
