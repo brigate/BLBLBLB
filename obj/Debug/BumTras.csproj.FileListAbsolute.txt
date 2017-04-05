@@ -3,3 +3,8 @@ C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\BumTras\BumTras\BLBL
 C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\BumTras\BumTras\BLBLBLB\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\BumTras\BumTras\BLBLBLB\obj\Debug\BumTras.exe
 C:\Users\dragan.pesic\Documents\Visual Studio 2008\Projects\BumTras\BumTras\BLBLBLB\obj\Debug\BumTras.pdb
+F:\RepositoriesGIT\BLBLBLB\obj\Debug\BumTras.exe
+F:\RepositoriesGIT\BLBLBLB\obj\Debug\BumTras.pdb
+F:\RepositoriesGIT\BLBLBLB\bin\Debug\BumTras.exe
+F:\RepositoriesGIT\BLBLBLB\bin\Debug\BumTras.pdb
+F:\RepositoriesGIT\BLBLBLB\obj\Debug\ResolveAssemblyReference.cache
